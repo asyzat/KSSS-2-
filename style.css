@@ -11,6 +11,8 @@ body {
     font-family: Arial, sans-serif;
     background-color: #f0f0f0;
     background: url(ksssimg.jpg);
+    background-repeat: no-repeat;
+    
 }
 
 .qq {
@@ -103,7 +105,7 @@ header {
 nav {
     display: flex;
     justify-content: space-around;
-    background-color: #043729;
+    background-color: #083001;
     padding: 15px;
    
 }
